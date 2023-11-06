@@ -24,7 +24,7 @@ O objetivo principal deste repositório é acompanhar o meu progresso no curso d
   - Descrição: Implementação de um jogo de adivinhação e um jogo da forca em C++.
 
 - [ ] **Avançando com C++: entenda menlhor a linguagem**
-  - Data de conclusão: 2023-09-20
+  - Data de conclusão: Em andamento
   - Descrição: Exploração de recursos avançados da linguagem C.
 
 - [ ] **O que é Assembly**
